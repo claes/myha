@@ -1,0 +1,7 @@
+wheel
+Cython
+aiocoap==0.4a1
+DTLSSocket==0.1.7
+pytradfri[async]==6.3.1
+pyserial-asyncio==0.4
+homeassistant==0.103.5
